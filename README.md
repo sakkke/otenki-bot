@@ -1,1 +1,1 @@
-# weather-bot
+# otenki-bot
